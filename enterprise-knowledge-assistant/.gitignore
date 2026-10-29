@@ -1,0 +1,21 @@
+# Environment variables / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+.DS_Store
+
+# zscaller 
+zscaler.crt
+
+.fde-projects/
